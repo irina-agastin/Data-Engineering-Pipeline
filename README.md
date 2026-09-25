@@ -5,9 +5,6 @@ The above code was tested on the courses:
 NOC:Deep Learning, IIT Ropar (`https://nptel.ac.in/courses/106106184`)  and 
 NOC:Aircraft Maintenance, IIT Kanpur (`https://nptel.ac.in/courses/101104071`)
 
-**Visualize LIVE Key Statistics** using Grafana : 
-      http://localhost:3000/public-dashboards/c238776f31774a8dbd9343c20de32e38
-
 ## Setup Instructions
 
 **Clone the Repository:**
